@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind component;
+@tailwind utilities;
+
+body {
+    padding: 0;
+    margin: 0;
+}
+main{
+    min-height: 80vh;
+}
